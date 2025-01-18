@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 10% 30%;
+  background-color: black;
+  color: whitesmoke;
+}
+
+.main {
+  background-color: rgb(104, 9, 9);
+  padding: 17px;
+  border-radius: 17px;
+  width: 100%;
+}
+
+/* the images command */
+
+.images {
+  width: 100px;
+  border-radius: 5px;
+}
+
+.The-img {
+  display: flex;
+  position: absolute;
+}
+/* the text command */
+
+.text {
+  padding-left: 10%;
+  line-height: 250%;
+  font-weight: bold;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px gold;
+  margin: 2% 0 0 10%;
+}
+
+/* the list command */
+
+.The-list {
+  display: block;
+  width: 20%;
+  padding-top: 10px;
+  position: relative;
+  margin-top: 20%;
+  font-weight: bolder;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(11, 11, 179), 0 0 5px darkblue;
+}
+
+/* The btn command */
+
+.The-btn {
+  width: 100%;
+  padding: 1px 0 1px 60px;
+}
+
+.btn-1 {
+  width: 70px;
+  height: 30px;
+  font-weight: 800;
+  color: darkslategray;
+  border-radius: 5px;
+}
+.btn-2 {
+  width: 70px;
+  height: 30px;
+  font-weight: 800;
+  color: darkslategray;
+  border-radius: 5px;
+}
+.btn-3 {
+  width: 70px;
+  height: 30px;
+  font-weight: 800;
+  color: darkslategray;
+  border-radius: 5px;
+}
+.btn-4 {
+  width: 70px;
+  height: 30px;
+  font-weight: 800;
+  color: darkslategray;
+  border-radius: 5px;
+}
